@@ -1,0 +1,37 @@
+## Python with Selenium Helper file :-
+-----------------------------------------
+
+##Check version/ Is already installed? via CMD
+-----------------------------------------------
+python --version
+pip --version
+
+CTRL + '/' => Comment or Uncomment any line 
+CTRL + ALT + SHIFT => Formate Code automatically
+
+
+##Install Selenium in Python via CMD
+---------------------------------------
+pip install -U selenium
+
+
+##Upgrade PIP version via CMD
+------------------------------------
+python -m pip install --upgrade pip
+
+
+##Learn Selenium Python in ONE VIDEO | Step by Step
+------------------------------------------------------
+Step 1 : download python - https://www.python.org/downloads/
+Step 2 : Install and check python and pip is installed successfully
+              python --version
+              pip --version
+Step 3 : install selenium libraries
+              pip install -U selenium
+Step 4 : Download PyCharm - community edition
+      https://www.jetbrains.com/pycharm/dow...
+Step 5 : Create new project in PyCharm
+Step 6 : Adding selenium scripts to the project
+	note: those who face problem on click btnK replace it with "q".
+Step 7 : Run from IDE
+         Run from Command Line
